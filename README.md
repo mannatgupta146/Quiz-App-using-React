@@ -13,13 +13,13 @@ A simple quiz application built with React. The app presents multiple-choice que
 ### Start Page
 When the app is opened, the user sees the first question of the quiz along with four answer options as buttons.
 
-![Start Page](./demo/start.png)
+![Start Page](./start.png)
 
 ### Final Page
 After all questions are answered, the app displays the total score in a message like:
 > "You scored 3 out of 4."
 
-![Final Page](./demo/final.png)
+![Final Page](./final.png)
 
 ## Structure
 
